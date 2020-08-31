@@ -1,0 +1,21 @@
+body{background: rgb(9, 126, 77);}
+
+.título{
+color: rgb(90, 9, 23);
+text-align: center; 
+background: lightgreen;   }
+
+img{ height:300px;
+    /*padding: px;*/
+    margin: 0 0 5px 0;
+    border: solid 12px rgb(14, 211, 178);
+    width: 930px;
+}
+
+#parágrafo{ font: 22pt arial;    }
+
+.alinhar{text-align: justify;    }
+
+div{ background: rgb(9, 163, 156);
+border: solid 12px rgb(14, 211, 178)  ;
+padding: 15px; }
